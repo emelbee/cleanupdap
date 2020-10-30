@@ -1,1 +1,1 @@
-Remove-AzResourceGroup -Name myResourceGroupVM
+Remove-AzResourceGroup -Name myResourceGroupVM -Force
